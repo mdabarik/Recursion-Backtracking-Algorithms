@@ -5,6 +5,7 @@ Example 1:
 Input: ABC
 Output: ABC ACB BAC BCA CAB CBA
 
+Example 2:
 Input: ABSG
 Output:
 ABGS ABSG AGBS AGSB ASBG ASGB BAGS 
